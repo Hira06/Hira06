@@ -1,5 +1,12 @@
 ## Hi there 👋
+My name is Hira, and I'm a final-year Computer Science student.
 
+## 🌱 I’m currently learning ...
+   - Python for Data Analysis
+   - Data Visualization
+   - Responsive Web Development
+   - Git/GitHub workflow
+   - Problem-solving (LeetCode basics)
 <!--
 **Hira06/Hira06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
